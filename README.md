@@ -1,6 +1,6 @@
-# llvm-pass-skeleton
+# Static Call-Graph Generation 
 
-Static Call Graph Generation LLVM pass.
+Static Call-Graph Generation LLVM pass.
 
 Build:
 
