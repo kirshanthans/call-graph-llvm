@@ -1,6 +1,6 @@
 # llvm-pass-skeleton
 
-A completely useless LLVM pass.
+Static Call Graph Generation LLVM pass.
 
 Build:
 
@@ -13,4 +13,5 @@ Build:
 
 Run:
 
-    $ clang -Xclang -load -Xclang build/skeleton/libSkeletonPass.* something.c
+    $ cd test
+    $ ./run.sh
